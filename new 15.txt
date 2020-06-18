@@ -1,0 +1,6 @@
+doubts
+1.difference between position:relative and position :absolute
+https://media.guruskul.in/course-files/web-designing/day-10-html-file.pdf
+https://via.placeholder.com/300 
+what if we have to give multiple space in p tag
+how to increase text background size
